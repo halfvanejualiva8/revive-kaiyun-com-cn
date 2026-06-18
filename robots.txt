@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://halfvanejualiva8.github.io/revive-kaiyun-com-cn/sitemap.xml
